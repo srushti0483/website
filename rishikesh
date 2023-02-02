@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          body{
+            background-image: url(background6.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        
+        h2{
+            font-size: 30px;
+            color:black;
+            text-align: center;
+            padding: 50px;
+        }
+        h2{
+            text-align: center;
+            font-size: 50px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="website.html" class="home">home</a>
+        <a href="image.html" class="image">image</a>
+        <a href="about us.html" class="about">about us</a>
+    </div><br><br><br><br><br>
+
+    <h2>RISHIKESH</h2>
+    <blockquote><p class="h2">
+       <p>Rishikesh is located in the northern part of Uttarakhand.
+         It is 238 km northeast of Delhi and 24 km north of Haridwar and spreads on the right banks of the Ganges,
+          at its confluence with the Chandrabhaga stream.Located amidst lush forested area,
+           Rishikesh is the base for pilgrimage journeys to the Hindu shrines at Yamunotri, Gangotri,
+            Kedarnath and Badrinath.Kankhal is one of the Panch Teerth (five Pilgrimages - Ganga, Kushwart, Bilwa Teerth,
+             Neel Parvat and Kankhal), the Mahadev Temple and Sati Kund here are associated with the immolation in a 
+             yagya of Lord Shiva's first wife. </p><br>
+             <p>
+                Rishikesh is also popularly known as the ‘Yoga Capital of the World’.
+                Rishikesh and Haridwar are known as the “Twin National Heritage Cities” of the country. 
+                Due to the holy and religious significance . Rishikesh is the well known 'Dev Bhoomi' of Uttarakhand.
+                 Apart from the adventure activities what truly makes Rishikesh a famous tourist city is its high concentration 
+                 of temples and yoga schools. There are numerous temples in Rishikesh,
+                  some old some new, some big some small with each having its own distinct flavou.
+             </p><br>
+             <p>
+                Rishikesh abounds in temples. Some of the most famous of Rishikesh are Chandreshwar temple, 
+                Hanuman Mandir , Neelkanth Mahadev Temple , Bharat Temple, Raghunath Mandir , Kunjapuri Devi temple,
+                 Lakshmanan Temple , Shatrughana temple , Trayambakeshwar Temple , Gita Bhavan ,Swarg Niwas. 
+                  Most of the pilgrims who pass through Rishikesh on their way to the Himalayan shrines of the Char Dham pause 
+                  for a holy dip and puja at Triveni Ghat, in the central part of the town. The river here looks especially spectacular
+                   during aarti (evening worship) when diyas or oil lamps float on the water. Nearby is the Bharat Mandir,
+                    Rishikesh's oldest temple, dedicated to Lord Vishnu.
+             </p><br>
+             <p>
+                The Chandreshwar temple stands at the confluence of the Chandrabhaga and the Ganges.
+                 The Hanuman Mandir is flocked by a large number of devotees on Tuesday.Rishikesh has also developed as one of the better
+                  known towns for schools of yoga and meditation. Many meditation and yoga centres dot this temple-town 
+                  and have a great following not only among domestic tourist also foreign tourists.Rishikesh is also popularly known
+                   as the ‘Yoga Capital of the World’ as well as the ‘Gateway to the Garhwal Himalayas’.
+                    It lies at around a distance of twenty-five kilometers from the holy city of Haridwar,
+                     which you can plan to visit along with Rishikesh. Since 2015, 
+                     both Rishikesh and Haridwar are known as the “Twin National Heritage Cities” of the country.
+                      Due to the holy and religious significance of the city of Rishikesh both non-vegetarian food and alcohol
+                       are prohibited here. The streets of the city of Rishikesh are lined with a number of ancient temples
+                        both large and small. You can visit all these temples back to back while in Rishikesh.
+             </p><br>
+    </blockquote>
+</body>
+</html>
