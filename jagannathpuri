@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          body{
+            background-image: url(background6.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        
+        h2{
+            font-size: 30px;
+            color:black;
+            text-align: center;
+            padding: 50px;
+        }
+        h2{
+            text-align: center;
+            font-size: 50px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="website.html" class="home">home</a>
+        <a href="image.html" class="image">image</a>
+        <a href="about us.html" class="about">about us</a>
+    </div><br><br><br><br><br>
+
+    <h2>JAGANNATH  PURI</h2>
+    <blockquote><p class="h2">
+        <p>The temple was rebuilt by the Ganga dynasty king Anantavarman Chodaganga in the 12th century CE,
+             as suggested by the Kendupatna copper-plate inscription of his descendant Narasimhadeva II.
+             Anantavarman was originally a Shaivite, and became a Vaishnavite sometime after he conquered the Utkala region 
+             (in which the temple is located) in 1112 CE. A 1134–1135 CE inscription records his donation to the temple.
+              Therefore, the temple construction must have started sometime after 1112 CE.</p><br>
+              <p>
+                According to a story in the temple chronicles, it was founded by Anangabhima-deva II:
+                 different chronicles variously mention the year of construction as 1196, 1197, 1205, 1216, or 1226.
+                This suggests that the temple's construction was completed or that the temple was renovated during the reign
+                 of Anantavarman's son Anangabhima.[10] The temple complex was further developed during the reigns of the subsequent kings,
+                  including those of the Ganga dynasty and the Gajapati dynasty.</p><br>
+               <p>
+                The Jagannath Temple is an important Hindu temple dedicated to Jagannath,
+                 a form of Vishnu - one of the trinity of supreme divinity in Hinduism.
+                  Puri is in the state of Odisha, on the eastern coast of India. 
+                  The present temple was rebuilt from the tenth century onwards,
+                   on the site of pre existing temples in the compound but not the main Jagannatha temple, 
+                   and begun by Anantavarman Chodaganga, the first king of the Eastern Ganga dynasty. </p><br>
+                   <p>
+                    The Puri temple is famous for its annual Ratha Yatra, or chariot festival,
+                     in which the three principal deities are pulled on huge and elaborately decorated temple cars.
+                      Unlike the stone and metal icons found in most Hindu temples, the image of Jagannath
+                       (which gave its name to the English term 'juggernaut') is made of wood and is ceremoniously replaced every
+                        twelve or 19 years by an exact replica.[2] It is one of the Char Dham pilgrimage sites.
+                         The temple is sacred to all Hindus, and especially in those of the Vaishnava traditions.
+                          Many great Vaishnava saints, such as Ramanujacharya, Madhvacharya, Nimbarkacharya,
+                           Vallabhacharya and Ramananda were closely associated with the temple.
+                            Ramanuja established the Emar Mutt near the temple and Adi Shankaracharya established the Govardhan Math,
+                             which is the seat of one of the four Shankaracharyas. It is also of particular significance to
+                              the followers of Gaudiya Vaishnavism, whose founder, Chaitanya Mahaprabhu, was attracted to the deity, 
+                              Jagannath, and lived in Puri for many years.
+                   </p><br>
+    </blockquote>
+</body>
+</html>
