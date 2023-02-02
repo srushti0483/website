@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          body{
+            background-image: url(background6.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        
+        h2{
+            font-size: 30px;
+            color:black;
+            text-align: center;
+            padding: 50px;
+        }
+        h2{
+            text-align: center;
+            font-size: 50px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="website.html" class="home">home</a>
+        <a href="image.html" class="image">image</a>
+        <a href="about us.html" class="about">about us</a>
+    </div><br><br><br><br><br>
+
+    <h2>KEDARNATH</h2>
+    <blockquote><p class="h2">
+        <p>The shrine finds a mention in the Mahabharata but the temple one sees today
+             is said to have been built under the orders of the great Guru Adi Shankaracharya in the 8th Century.
+              Some also claim that it was built by Raja Bhoj of Malwa region in the 2nd Century.
+               After the April-November season of darshan, before harsh winter temperatures set in,
+                the murti (vigraha) of the deity is carried to Ukimath for the next 6 months. 
+                The Rawals (the priests of Karanataka-origin) travel along with the deity and carry out worship there.</p><br>
+                <p>
+                    Nara and Narayana - two incarnations of Vishnu performed severe penance in Badrikashrayain
+                     devotion to Lord Shiva Bhole Shankar himself appeared in front of them. When the Lord granted them a boon,
+                      Nar and Narayan requested Shiva to take up a permanent abode at the place to benefit the devotees.
+                       Therefore, it is believed that Lord Shiva assumed the form as a Jyotirlingam at Kedarnath so that all
+                        people who worship Shiva shall be freed from their miseries.
+                </p><br>
+                <p>
+                    It is said that after the Mahabharata war ended, the Pandavas were full of remorse at having lost thousands to the violence. 
+                     They handed over the kingdom's reins to grandson Parikshit and started for Varanasi to seek Lord Shiva's pardon.
+Not interested in meeting them, Shivji leaves Varanasi/Benaras/Kashi
+ and heads for the Himalayas in the form of a Bull (Nandi, the Bull). 
+ He reappears in Guptakashi as the bull and the Pandavas reach there. 
+Shiva escapes again and this time reappears as the bull in five different parts of India 
+as 5 different parts of the bull's body: the face at Rudranath, arms at Tungnath, navel and stomach at Madhyamaheshwar, 
+the locks at Kalpeshwar and the hump at Kedarnath. The powerful Pandava - Bhima - is said to have grabbed the bull's tail,
+forcing him to appear before them and forgive them. The Pandava brothers then built the first temple at Kedarnath. 
+These 5 places where the bull had appeared in parts after diving underground are known as the Panch (5) Kedar.
+Situated in a region of Glacial activity, the temple is said to have been under snow for 400 years.
+ The signs of glacial assault are still there on the walls, say geologists.
+  The temple was miraculously saved by a BhimShila (massive boulder) that rolled down the mountains
+   during the horrific cloudburst and natural calamity in June 2013. It is said Baba Bhairo Nath saves the temple.
+                </p>
+    </blockquote>
+</body>
+</html>
