@@ -1,0 +1,66 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          body{
+            background-image: url(background6.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        
+        h2{
+            font-size: 30px;
+            color:black;
+            text-align: center;
+            padding: 50px;
+        }
+        h2{
+            text-align: center;
+            font-size: 50px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="website.html" class="home">home</a>
+        <a href="image.html" class="image">image</a>
+        <a href="about us.html" class="about">about us</a>
+    </div><br><br><br><br><br>
+
+    <h2>BADRINATH</h2>
+    <blockquote><p class="h2">
+        <p>Badrinath or Badrinarayana Temple is a Hindu temple dedicated to Vishnu.
+             It is situated in the town of Badrinath in Uttarakhand, India. 
+             The temple is also one of the 108 Divya Desams dedicated to Vishnu -
+              holy shrines for Vaishnavas - who is worshipped as Badrinath. 
+            It is open for six months every year (between the end of April and the beginning of November),
+             because of extreme weather conditions in the Himalayan region. The temple is located in Garhwal hill
+              tracks in Chamoli district along the banks of Alaknanda River. It is one of the most visited pilgrimage centers of India,
+               having recorded 2.8 million (28 lakh) visits in just 2 months in 2022.</p><br>
+               <p>
+                The image of the presiding deity worshipped in the temple is a 1 ft (0.30 m),
+                 the black granite deity of Vishnu in the form of Badrinarayan. 
+                 The deity is considered by many Hindus to be one of eight svayam vyakta kshetras,
+                  or self-manifested deities of Vishnu.</p><br>
+                  <p>
+                    Mata Murti Ka Mela, which commemorates the descent of river Ganges on mother earth, 
+                    is the most prominent festival celebrated in the Badrinath Temple.
+                     Although Badrinath is located in North India, the head priest, or Rawal,
+                      is traditionally a Nambudiri Brahmin chosen from the South Indian state of Kerala. 
+                      The temple was included in the Uttar Pradesh state government Act No. 30/1948 as Act no.
+                       16,1939, which later came to be known as Shri Badarinath and Shri Kedarnath Mandir Act.
+                        The committee nominated by the state government administers both the temples and has seventeen members on 
+                        its board </p><br>
+                        <p>
+                            There is no historical record about the temple, but there is a mention of the presiding deity Badrinath in Vedic scriptures (c. 1750–500 BCE).[6] According to some accounts, the shrine was worshipped in some form in the Vedic period. The architecture of the temple resembling that of a Buddhist vihara (temple) and the brightly painted facade which is atypical of Buddhist temples leads to the argument.[2] Other accounts relate that it was originally established as a pilgrimage site by Adi Shankara in the ninth century. It is believed that Shankara resided in the place for six years from CE 814 to 820. He resided six months in Badrinath and the rest of the year in Kedarnath. Hindu followers assert that he discovered the deity of Badrinath in the Alaknanda River and enshrined it in a cave near the Tapt Kund hot springs.[8][10] A traditional story asserts that Shankara expelled all the Buddhists in the region with the help of the Parmar ruler king Kanak Pal, however this might be fictitious and very recent. The hereditary successors of the king governed the temple and endowed villages to meet its expenses. The income from a set of villages on the route to the temple was used to feed and accommodate pilgrims. The Parmar rulers held the title "Bolanda Badrinath", meaning speaking Badrinath. They had other titles, including Shri 108 Basdrishcharyaparayan Garharaj Mahimahendra, Dharmabibhab, and Dharamarakshak Sigamani.
+                        </p><br>
+               
+    </blockquote>
+</body>
+</html>
