@@ -1,0 +1,76 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+          body{
+            background-image: url(background6.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        
+        h2{
+            font-size: 30px;
+            color:black;
+            text-align: center;
+            padding: 50px;
+        }
+        h2{
+            text-align: center;
+            font-size: 50px;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <a href="website.html" class="home">home</a>
+        <a href="image.html" class="image">image</a>
+        <a href="about us.html" class="about">about us</a>
+    </div><br><br><br><br><br>
+
+    <h2>KONARK</h2>
+    <blockquote><p class="h2">
+       <p>
+        The Konark or Konarak Sun temple is dedicated to the Hindu sun god Surya,
+         and, conceived as a giant stone chariot with 12 wheels, it is the most famous of the few sun temples 
+         built in India. It is located about 35 km northeast of the city of Puri on the coastline in the state of Odisha (earlier Orissa).
+          It was built c. 1250 CE by King Narasimhadeva I (r. 1238-1264 CE) of the Eastern Ganga dynasty
+           (8th century CE - 15th century CE). The temple in its present state was declared by UNESCO a World Heritage Site in 1984 CE.
+            Although many portions are now in ruins, what remains of the temple complex continues to draw not only tourists
+             but also Hindu pilgrims. Konarak stands as a classic example of Hindu temple architecture, 
+             complete with a colossal structure, sculptures and artwork on myriad themes.
+       </p><br>
+       <p>
+        The Eastern Gangas established their kingdom in the Kalinga region in eastern India 
+        (present-day Odisha state) at “the beginning of the eighth century CE” (Tripathi, 368),
+         though their fortunes rose from the eleventh century CE onwards. The greatest king of this dynasty was Anantavarman Chodaganga 
+         (1077 - 1147 CE), who ruled for about 70 years. He was not only a formidable warrior but also a patron of arts,
+          and greatly favoured temple building. The great temple of the god Jagannatha at Puri, begun by him,
+           'stands as a brilliant monument to the artistic vigour and prosperity of Orissa during his reign' 
+           (Majumdar, 377). His successors continued the tradition, with the most notable being Narasimhadeva 
+           I who not only completed the construction of the Jagannatha temple but also the temple at Konarak.
+       </p><br><br><br><br>
+       <p>
+        <h3>THE KONARAK TEMPLE TAKES THE FORM OF A COLOSSAL CHARIOT WITH 12 PAIRS OF LAVISHLY-ORNAMENTED WHEELS REPRESENTING THE 12 MONTHS OF THE YEAR.</h3>
+       </p><br><br><br><br>
+       <p>
+        The word 'Konark' is a combination of two Sanskrit words kona (corner or angle) and arka (the sun).
+         It thus implies that the main deity was the sun god, and the temple was built in an angular format.
+          The temple follows the Kalinga or Orissa style of architecture, which is a subset of the nagara style of Hindu temple
+           architecture. The Orissa style is believed to showcase the nagara style in all its purity.
+            The nagara was among the three styles of Hindu temple architecture in India and prevailed in northern India,
+             while in the south, the dravida style predominated and in central and eastern India, it was the vesara style.
+              These styles can be distinguished by how features such as ground plan and elevation were represented visually.
+       </p><br><br><br><br>
+       <p>
+        <h3>THE SUN GOD SURYA IS USUALLY DEPICTED ON A CHARIOT PULLED BY SEVEN HORSES.</h3>
+       </p><br><br><br><br>
+    
+    </blockquote>
+</body>
+</html>
