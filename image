@@ -1,0 +1,186 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+       <style>
+        html{
+            background-color: black;
+        }
+        body{
+            background-image: url(background5.jp.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right;
+            background-attachment: scroll;
+        }
+        .i{
+            font-size: 40px;
+            color: rgb(7, 7, 7);
+            text-align: center;
+        }
+        *{
+            box-sizing: border-box;
+        }
+        #img{
+            font-size: 20px;
+            color: rgba(189, 240, 7, 0.801);
+            background-color: rgba(189, 240, 7, 0.801);
+            padding-left: 5px;
+        }
+        .column1{
+            float: left;
+            width: 33.33%;
+            padding: 20px;
+            height: 2px;
+        }
+        .column2{
+            float: left;
+            width: 33.33%;
+            padding: 20px;
+        }
+        .column3{
+            float: left;
+            width: 33.33%;
+            padding: 20px;
+        }
+        .column4{
+            float: left;
+            width: 33.33%;
+            padding: 20px;
+            
+        }
+        .column5{
+            float: left;
+            width: 33.33%;
+            padding: 20px;
+            height: 10px;
+
+        }
+        .column6{
+            float: left;
+            width: 33.33%;
+            padding: 30px;
+            height: 50px;
+        }
+        .row::after{
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .s1{
+            position: absolute;
+            bottom: 395px;
+            color: black;
+            text-align: center;
+            width: 465px;
+            height: 50px;
+            margin-left: 1px;
+            margin-right: 50px;
+        }
+        .s2{
+            position: absolute;
+            bottom: 395px;
+            color: black;
+            text-align: center;
+            width: 465px;
+            height: 50px;
+            margin-left: -1px;
+            margin-right: 50px;
+        }
+        .s3{
+            position: absolute;
+            bottom: 395px;
+            color: black;
+            text-align: center;
+            width: 465px;
+            height: 50px;
+            margin-left: 1px;
+            margin-right: 50px;
+        }
+        #s4{
+            position: absolute;
+            bottom: 65px;
+            color:solid black;
+            text-align: center;
+            width: 465px;
+            height: 50px;
+            margin-left: 1px;
+            margin-right: 50px;
+        }
+        #s5{
+            position: absolute;
+            bottom: 56px;
+            color: black;
+            text-align: center;
+            width: 465px;
+            height: 50px;
+            margin-left: 1px;
+            margin-right: 50px;
+        }
+        #s6{
+            position: absolute;
+            bottom: 52px;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            width: 445px;
+            height: 50px;
+            margin-left: 1px;
+            margin-right: 50px;
+        }
+        
+        
+    </style>
+</head>
+<body>
+         <h1 class="I">Temple Gallery</h1>
+         <div class="nav">
+            <a href="website2.html" class="home">Home</a>
+               <a href="image.html" class="image">Image</a>
+               <a href="about us.html" class="about us">About us</a>
+           </div><br><br><br>
+       
+        
+         <div class="row">
+            <div class="column1">
+                <img src="somnath.jpg" width="100%">
+                <div class="s1">
+                    <a href="somnath.html"><h5>somnath</h5></a>
+                </div>
+            </div>
+            <div class="column2">
+                <img src="kedarnath.jpg" width="100%">
+                <div class="s2">
+                    <a href="kedarnath.html"><h5>kedarnath</h5>
+                </div>
+            </div>
+            <div class="column3">
+                <img src="badrinath.jpg" width="100%" height="">
+                <div class="s3">
+                    <a href="badrinath.html"><h5>badrinath</h5>
+                </div>
+            </div>
+         </div>
+         <div class="row">
+            <div class="column4">
+                <img src="jagannath.jpg" width="100%">
+                <div id="s4">
+                    <a href="jagannath.html"><h5>jagannath</h5>
+                </div>
+            </div>
+            <div class="column5">
+                <img src="rishikesh.jpg" width="100%">
+                <div id="s5">
+                   <a href="rishikesh.html"><h5>rishikesh</h5>
+                </div>
+            </div>
+            <div class="column6">
+                <img src="konark.jpg" width="100%">
+                <div id="s6">
+                    <a href="konark.html"><h5>konark</h5>
+                </div>
+            </div>
+           
+</body>
+</html>
